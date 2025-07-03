@@ -1,12 +1,12 @@
 {
-  "name": "𝗥𝗔𝗪𝗔𝗡𝗔-𝗠𝗗",
+  "name": "𝗧𝗛𝗘𝗘𝗞𝗦𝗛𝗔𝗡𝗔-𝗠𝗗",
   "version": "1.0.0",
-  "description": "WELCOME TO 𝗥𝗔𝗪𝗔𝗡𝗔-𝗠𝗗",
+  "description": "WELCOME TO 𝗧𝗛𝗘𝗘𝗞𝗦𝗛𝗔𝗡𝗔-𝗠𝗗",
   "main": "start.js",
  "scripts": {
-  "start": "pm2 start start.js --name '𝗥𝗔𝗪𝗔𝗡𝗔-𝗠𝗗' --deep-monitoring --attach",
-  "stop": "pm2 stop 𝗥𝗔𝗪𝗔𝗡𝗔-𝗠𝗗",
-  "restart": "pm2 restart 𝗥𝗔𝗪𝗔𝗡𝗔-𝗠𝗗"
+  "start": "pm2 start start.js --name '𝗧𝗛𝗘𝗘𝗞𝗦𝗛𝗔𝗡𝗔-𝗠𝗗' --deep-monitoring --attach",
+  "stop": "pm2 stop 𝗧𝗛𝗘𝗘𝗞𝗦𝗛𝗔𝗡𝗔-𝗠𝗗",
+  "restart": "pm2 restart 𝗧𝗛𝗘𝗘𝗞𝗦𝗛𝗔𝗡𝗔𝗡𝗔-𝗠𝗗"
 } ,
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
